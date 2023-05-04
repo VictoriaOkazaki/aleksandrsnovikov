@@ -39,6 +39,7 @@ body {
     text-align: center;
 }
 
+.hero__title,
 .hero__text,
 .hero__contact-text,
 .hero__btn {
@@ -58,6 +59,12 @@ body {
     font-weight: 400;
     font-size: 32px;
     line-height: 41px;
+}
+
+.hero__title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
 }
 
 .hero__contact {
